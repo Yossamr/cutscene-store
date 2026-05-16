@@ -416,10 +416,8 @@ async function sendTelegramNotification(message, phone, retries = 3) {
     const inline_keyboard = [
       [
         {
-          text: "\u{1F680} \u0641\u062A\u062D \u0644\u0648\u062D\u0629 \u0627\u0644\u062A\u062D\u0643\u0645 (Mini App)",
-          web_app: {
-            url: "https://yossamr.github.io/cutscene-store/admin"
-          }
+          text: "\u{1F680} \u0641\u062A\u062D \u0644\u0648\u062D\u0629 \u0627\u0644\u062A\u062D\u0643\u0645",
+          url: "https://yossamr.github.io/cutscene-store/admin"
         }
       ],
       [
@@ -2562,10 +2560,7 @@ var checkDbConnection = (req, res, next) => {
 // server.ts
 init_db();
 init_visitorService();
-var import_url = require("url");
-var import_meta2 = {};
-var __filename = (0, import_url.fileURLToPath)(import_meta2.url);
-var __dirname = import_path2.default.dirname(__filename);
+var __dirname = process.cwd();
 if (!import_fs2.default.existsSync(import_path2.default.join(__dirname, "uploads"))) {
   import_fs2.default.mkdirSync(import_path2.default.join(__dirname, "uploads"), { recursive: true });
 }
