@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T20:36:49.941Z",
+  "timestamp": "2026-05-16T20:47:14.599Z",
   "collections": [
     {
       "id": "626e7cdb-3dd8-4c70-9f65-2754ce8e1e69",
@@ -229,6 +229,7 @@
       "collection_name": "THE PUNISHER",
       "collection_poster": "https://upload.wikimedia.org/wikipedia/en/d/d9/Punisher_ver2.jpg",
       "collection_spotify_url": null,
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -253,7 +254,8 @@
         "id": "37691496-1c0e-4538-b38d-7465d8e91d59",
         "name": "THE PUNISHER",
         "poster": "https://upload.wikimedia.org/wikipedia/en/d/d9/Punisher_ver2.jpg",
-        "spotifyUrl": null
+        "spotifyUrl": null,
+        "category": "أفلام"
       }
     },
     {
@@ -296,6 +298,7 @@
       "collection_name": "spider man",
       "collection_poster": "https://www.advanced-television.com/wp-content/uploads/2013/05/spider-man.jpg",
       "collection_spotify_url": null,
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -320,7 +323,8 @@
         "id": "365c4826-be07-47c9-a7bf-ae3b0ea0f49c",
         "name": "spider man",
         "poster": "https://www.advanced-television.com/wp-content/uploads/2013/05/spider-man.jpg",
-        "spotifyUrl": null
+        "spotifyUrl": null,
+        "category": "أفلام"
       }
     },
     {
@@ -363,6 +367,7 @@
       "collection_name": "spider man",
       "collection_poster": "https://www.advanced-television.com/wp-content/uploads/2013/05/spider-man.jpg",
       "collection_spotify_url": null,
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -387,7 +392,8 @@
         "id": "365c4826-be07-47c9-a7bf-ae3b0ea0f49c",
         "name": "spider man",
         "poster": "https://www.advanced-television.com/wp-content/uploads/2013/05/spider-man.jpg",
-        "spotifyUrl": null
+        "spotifyUrl": null,
+        "category": "أفلام"
       }
     },
     {
@@ -430,6 +436,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -454,7 +461,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -497,6 +505,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -521,7 +530,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -564,6 +574,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -588,7 +599,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -631,6 +643,7 @@
       "collection_name": "Michael",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -655,7 +668,8 @@
         "id": "1313f788-4848-449e-95cc-d06c0b2bbcbe",
         "name": "Michael",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -698,6 +712,7 @@
       "collection_name": "Michael",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -722,7 +737,8 @@
         "id": "1313f788-4848-449e-95cc-d06c0b2bbcbe",
         "name": "Michael",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -765,6 +781,7 @@
       "collection_name": "Michael",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -789,7 +806,8 @@
         "id": "1313f788-4848-449e-95cc-d06c0b2bbcbe",
         "name": "Michael",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -832,6 +850,7 @@
       "collection_name": "Michael",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -856,7 +875,8 @@
         "id": "1313f788-4848-449e-95cc-d06c0b2bbcbe",
         "name": "Michael",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -899,6 +919,7 @@
       "collection_name": "Michael",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -923,7 +944,8 @@
         "id": "1313f788-4848-449e-95cc-d06c0b2bbcbe",
         "name": "Michael",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -966,6 +988,7 @@
       "collection_name": "Michael",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -990,7 +1013,8 @@
         "id": "1313f788-4848-449e-95cc-d06c0b2bbcbe",
         "name": "Michael",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -1033,6 +1057,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -1057,7 +1082,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -1100,6 +1126,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -1124,7 +1151,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -1167,6 +1195,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -1191,7 +1220,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -1234,6 +1264,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -1258,7 +1289,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -1301,6 +1333,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -1325,7 +1358,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -1368,6 +1402,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -1392,7 +1427,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -1435,6 +1471,7 @@
       "collection_name": "the walking dead",
       "collection_poster": "https://m.media-amazon.com/images/I/81JZUO74yYL._AC_UF1000,1000_QL80_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -1459,7 +1496,8 @@
         "id": "de27ccfa-36aa-42e5-88fd-f15499441a7d",
         "name": "the walking dead",
         "poster": "https://m.media-amazon.com/images/I/81JZUO74yYL._AC_UF1000,1000_QL80_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -1502,6 +1540,7 @@
       "collection_name": "the walking dead",
       "collection_poster": "https://m.media-amazon.com/images/I/81JZUO74yYL._AC_UF1000,1000_QL80_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -1526,7 +1565,8 @@
         "id": "de27ccfa-36aa-42e5-88fd-f15499441a7d",
         "name": "the walking dead",
         "poster": "https://m.media-amazon.com/images/I/81JZUO74yYL._AC_UF1000,1000_QL80_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -1569,6 +1609,7 @@
       "collection_name": "the walking dead",
       "collection_poster": "https://m.media-amazon.com/images/I/81JZUO74yYL._AC_UF1000,1000_QL80_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -1593,7 +1634,8 @@
         "id": "de27ccfa-36aa-42e5-88fd-f15499441a7d",
         "name": "the walking dead",
         "poster": "https://m.media-amazon.com/images/I/81JZUO74yYL._AC_UF1000,1000_QL80_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -1636,6 +1678,7 @@
       "collection_name": "the walking dead",
       "collection_poster": "https://m.media-amazon.com/images/I/81JZUO74yYL._AC_UF1000,1000_QL80_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -1660,7 +1703,8 @@
         "id": "de27ccfa-36aa-42e5-88fd-f15499441a7d",
         "name": "the walking dead",
         "poster": "https://m.media-amazon.com/images/I/81JZUO74yYL._AC_UF1000,1000_QL80_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -1703,6 +1747,7 @@
       "collection_name": "the walking dead",
       "collection_poster": "https://m.media-amazon.com/images/I/81JZUO74yYL._AC_UF1000,1000_QL80_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -1727,7 +1772,8 @@
         "id": "de27ccfa-36aa-42e5-88fd-f15499441a7d",
         "name": "the walking dead",
         "poster": "https://m.media-amazon.com/images/I/81JZUO74yYL._AC_UF1000,1000_QL80_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -1770,6 +1816,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -1795,7 +1842,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -1838,6 +1886,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -1863,7 +1912,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -1906,6 +1956,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -1931,7 +1982,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -1974,6 +2026,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -1999,7 +2052,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -2042,6 +2096,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -2067,7 +2122,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -2110,6 +2166,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -2135,7 +2192,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -2178,6 +2236,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -2203,7 +2262,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -2246,6 +2306,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -2271,7 +2332,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -2314,6 +2376,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -2339,7 +2402,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -2382,6 +2446,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -2407,7 +2472,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -2450,6 +2516,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -2475,7 +2542,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -2518,6 +2586,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -2543,7 +2612,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -2586,6 +2656,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -2611,7 +2682,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -2654,6 +2726,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -2679,7 +2752,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -2722,6 +2796,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -2747,7 +2822,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -2790,6 +2866,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -2815,7 +2892,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -2858,6 +2936,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -2882,7 +2961,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -2925,6 +3005,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -2949,7 +3030,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -2992,6 +3074,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -3016,7 +3099,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -3059,6 +3143,7 @@
       "collection_name": "Demon Slayer",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -3083,7 +3168,8 @@
         "id": "58c3e8fb-749f-4169-b519-fb6e55349a3e",
         "name": "Demon Slayer",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "انمي"
       }
     },
     {
@@ -3131,6 +3217,7 @@
       "collection_name": "fight club",
       "collection_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3152,7 +3239,8 @@
         "id": "7f339dea-26a5-4c53-8bb3-ace62108ee0d",
         "name": "fight club",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -3200,6 +3288,7 @@
       "collection_name": "fight club",
       "collection_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3221,7 +3310,8 @@
         "id": "7f339dea-26a5-4c53-8bb3-ace62108ee0d",
         "name": "fight club",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -3269,6 +3359,7 @@
       "collection_name": "fight club",
       "collection_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3290,7 +3381,8 @@
         "id": "7f339dea-26a5-4c53-8bb3-ace62108ee0d",
         "name": "fight club",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -3338,6 +3430,7 @@
       "collection_name": "fight club",
       "collection_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3359,7 +3452,8 @@
         "id": "7f339dea-26a5-4c53-8bb3-ace62108ee0d",
         "name": "fight club",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -3407,6 +3501,7 @@
       "collection_name": "fight club",
       "collection_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3428,7 +3523,8 @@
         "id": "7f339dea-26a5-4c53-8bb3-ace62108ee0d",
         "name": "fight club",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -3472,6 +3568,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3532,6 +3629,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3592,6 +3690,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3651,6 +3750,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3672,7 +3772,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -3716,6 +3817,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3775,6 +3877,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3796,7 +3899,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -3840,6 +3944,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3900,6 +4005,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3959,6 +4065,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -3980,7 +4087,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -4024,6 +4132,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4083,6 +4192,7 @@
       "collection_name": "the godfather",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4104,7 +4214,8 @@
         "id": "5f5adce5-855f-406a-a60f-1f0e99a35f9b",
         "name": "the godfather",
         "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -4148,6 +4259,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4207,6 +4319,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4266,6 +4379,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4325,6 +4439,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4384,6 +4499,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4443,6 +4559,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4502,6 +4619,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4562,6 +4680,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4621,6 +4740,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4681,6 +4801,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4741,6 +4862,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4801,6 +4923,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4861,6 +4984,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4920,6 +5044,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -4941,7 +5066,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -4984,6 +5110,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5005,7 +5132,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -5048,6 +5176,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5069,7 +5198,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -5112,6 +5242,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5133,7 +5264,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -5176,6 +5308,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5197,7 +5330,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -5241,6 +5375,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5301,6 +5436,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5360,6 +5496,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5381,7 +5518,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -5425,6 +5563,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5484,6 +5623,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5505,7 +5645,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -5549,6 +5690,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5609,6 +5751,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5669,6 +5812,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5729,6 +5873,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5789,6 +5934,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5849,6 +5995,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5909,6 +6056,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -5969,6 +6117,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -6029,6 +6178,7 @@
       "collection_name": null,
       "collection_poster": null,
       "collection_spotify_url": null,
+      "collection_category": null,
       "availableSizes": [
         "20*30",
         "40*60"
@@ -6086,6 +6236,7 @@
       "collection_name": "Attack on Titan",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": null,
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -6111,7 +6262,8 @@
         "id": "626e7cdb-3dd8-4c70-9f65-2754ce8e1e69",
         "name": "Attack on Titan",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": null
+        "spotifyUrl": null,
+        "category": "انمي"
       }
     },
     {
@@ -6163,6 +6315,7 @@
       "collection_name": "Attack on Titan",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": null,
+      "collection_category": "انمي",
       "availableSizes": [
         "S",
         "M",
@@ -6188,7 +6341,8 @@
         "id": "626e7cdb-3dd8-4c70-9f65-2754ce8e1e69",
         "name": "Attack on Titan",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": null
+        "spotifyUrl": null,
+        "category": "انمي"
       }
     },
     {
@@ -6229,6 +6383,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6254,7 +6409,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6295,6 +6451,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6320,7 +6477,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6361,6 +6519,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6386,7 +6545,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6427,6 +6587,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6452,7 +6613,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6493,6 +6655,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6518,7 +6681,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6559,6 +6723,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6584,7 +6749,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6625,6 +6791,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6650,7 +6817,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6691,6 +6859,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6716,7 +6885,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6757,6 +6927,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6782,7 +6953,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6823,6 +6995,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6848,7 +7021,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6889,6 +7063,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6914,7 +7089,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -6957,6 +7133,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -6982,7 +7159,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7023,6 +7201,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7048,7 +7227,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7089,6 +7269,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7114,7 +7295,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7155,6 +7337,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7180,7 +7363,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7221,6 +7405,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7246,7 +7431,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7287,6 +7473,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7312,7 +7499,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7353,6 +7541,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7378,7 +7567,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7419,6 +7609,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7444,7 +7635,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7485,6 +7677,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7510,7 +7703,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7551,6 +7745,7 @@
       "collection_name": "game of thrones",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7576,7 +7771,8 @@
         "id": "ba481735-e198-4c5f-8e11-2e54d43411cd",
         "name": "game of thrones",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7617,6 +7813,7 @@
       "collection_name": "dexter",
       "collection_poster": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7642,7 +7839,8 @@
         "id": "fda3b254-12fa-4739-b72d-2529ba3a3256",
         "name": "dexter",
         "poster": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7683,6 +7881,7 @@
       "collection_name": "stranger things",
       "collection_poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7708,7 +7907,8 @@
         "id": "6e344765-7633-4186-ad17-82e5467e3e94",
         "name": "stranger things",
         "poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -7749,6 +7949,7 @@
       "collection_name": "fight club",
       "collection_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -7774,7 +7975,8 @@
         "id": "7f339dea-26a5-4c53-8bb3-ace62108ee0d",
         "name": "fight club",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -7815,6 +8017,7 @@
       "collection_name": "fight club",
       "collection_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -7840,7 +8043,8 @@
         "id": "7f339dea-26a5-4c53-8bb3-ace62108ee0d",
         "name": "fight club",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -7881,6 +8085,7 @@
       "collection_name": "fight club",
       "collection_poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
       "collection_spotify_url": "",
+      "collection_category": "أفلام",
       "availableSizes": [
         "S",
         "M",
@@ -7906,7 +8111,8 @@
         "id": "7f339dea-26a5-4c53-8bb3-ace62108ee0d",
         "name": "fight club",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHAgGGoJOraKrkB_jUIt-81zqknRoPVnZNQ&s",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "أفلام"
       }
     },
     {
@@ -7949,6 +8155,7 @@
       "collection_name": "breaking bad",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -7974,7 +8181,8 @@
         "id": "4b0db66d-ae61-4db0-add1-a3e2cf412a26",
         "name": "breaking bad",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8015,6 +8223,7 @@
       "collection_name": "stranger things",
       "collection_poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8040,7 +8249,8 @@
         "id": "6e344765-7633-4186-ad17-82e5467e3e94",
         "name": "stranger things",
         "poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8081,6 +8291,7 @@
       "collection_name": "stranger things",
       "collection_poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8106,7 +8317,8 @@
         "id": "6e344765-7633-4186-ad17-82e5467e3e94",
         "name": "stranger things",
         "poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8149,6 +8361,7 @@
       "collection_name": "stranger things",
       "collection_poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8174,7 +8387,8 @@
         "id": "6e344765-7633-4186-ad17-82e5467e3e94",
         "name": "stranger things",
         "poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8215,6 +8429,7 @@
       "collection_name": "stranger things",
       "collection_poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8240,7 +8455,8 @@
         "id": "6e344765-7633-4186-ad17-82e5467e3e94",
         "name": "stranger things",
         "poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8281,6 +8497,7 @@
       "collection_name": "stranger things",
       "collection_poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8306,7 +8523,8 @@
         "id": "6e344765-7633-4186-ad17-82e5467e3e94",
         "name": "stranger things",
         "poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8347,6 +8565,7 @@
       "collection_name": "stranger things",
       "collection_poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8372,7 +8591,8 @@
         "id": "6e344765-7633-4186-ad17-82e5467e3e94",
         "name": "stranger things",
         "poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8413,6 +8633,7 @@
       "collection_name": "breaking bad",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8438,7 +8659,8 @@
         "id": "4b0db66d-ae61-4db0-add1-a3e2cf412a26",
         "name": "breaking bad",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8481,6 +8703,7 @@
       "collection_name": "dexter",
       "collection_poster": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8506,7 +8729,8 @@
         "id": "fda3b254-12fa-4739-b72d-2529ba3a3256",
         "name": "dexter",
         "poster": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8547,6 +8771,7 @@
       "collection_name": "breaking bad",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8572,7 +8797,8 @@
         "id": "4b0db66d-ae61-4db0-add1-a3e2cf412a26",
         "name": "breaking bad",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8613,6 +8839,7 @@
       "collection_name": "breaking bad",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8638,7 +8865,8 @@
         "id": "4b0db66d-ae61-4db0-add1-a3e2cf412a26",
         "name": "breaking bad",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8679,6 +8907,7 @@
       "collection_name": "dexter",
       "collection_poster": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8704,7 +8933,8 @@
         "id": "fda3b254-12fa-4739-b72d-2529ba3a3256",
         "name": "dexter",
         "poster": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8745,6 +8975,7 @@
       "collection_name": "dexter",
       "collection_poster": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8770,7 +9001,8 @@
         "id": "fda3b254-12fa-4739-b72d-2529ba3a3256",
         "name": "dexter",
         "poster": "https://m.media-amazon.com/images/I/81Y8K3JDkUL._AC_UF894,1000_QL80_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8811,6 +9043,7 @@
       "collection_name": "la casa de papel",
       "collection_poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16764740_b_v13_aa.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8836,7 +9069,8 @@
         "id": "20b159c8-e783-40e2-854c-7ab893aeab7e",
         "name": "la casa de papel",
         "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16764740_b_v13_aa.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8877,6 +9111,7 @@
       "collection_name": "la casa de papel",
       "collection_poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16764740_b_v13_aa.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8902,7 +9137,8 @@
         "id": "20b159c8-e783-40e2-854c-7ab893aeab7e",
         "name": "la casa de papel",
         "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16764740_b_v13_aa.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -8943,6 +9179,7 @@
       "collection_name": "stranger things",
       "collection_poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -8968,7 +9205,8 @@
         "id": "6e344765-7633-4186-ad17-82e5467e3e94",
         "name": "stranger things",
         "poster": "https://i.guim.co.uk/img/media/344f3917f3e40dbb745e498dd31ab84e4b098981/0_901_3000_2400/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=cdadb2f0061a9d1671d268efdd5a572d",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -9009,6 +9247,7 @@
       "collection_name": "peaky blinders",
       "collection_poster": "https://i.ebayimg.com/images/g/t94AAOSweNFj454I/s-l1200.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -9034,7 +9273,8 @@
         "id": "ba1471fe-ef8a-45e2-8855-28f4ccffd9e2",
         "name": "peaky blinders",
         "poster": "https://i.ebayimg.com/images/g/t94AAOSweNFj454I/s-l1200.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -9077,6 +9317,7 @@
       "collection_name": "peaky blinders",
       "collection_poster": "https://i.ebayimg.com/images/g/t94AAOSweNFj454I/s-l1200.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -9102,7 +9343,8 @@
         "id": "ba1471fe-ef8a-45e2-8855-28f4ccffd9e2",
         "name": "peaky blinders",
         "poster": "https://i.ebayimg.com/images/g/t94AAOSweNFj454I/s-l1200.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -9145,6 +9387,7 @@
       "collection_name": "peaky blinders",
       "collection_poster": "https://i.ebayimg.com/images/g/t94AAOSweNFj454I/s-l1200.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -9170,7 +9413,8 @@
         "id": "ba1471fe-ef8a-45e2-8855-28f4ccffd9e2",
         "name": "peaky blinders",
         "poster": "https://i.ebayimg.com/images/g/t94AAOSweNFj454I/s-l1200.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -9211,6 +9455,7 @@
       "collection_name": "the godfather",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -9236,7 +9481,8 @@
         "id": "5f5adce5-855f-406a-a60f-1f0e99a35f9b",
         "name": "the godfather",
         "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -9277,6 +9523,7 @@
       "collection_name": "the godfather",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -9302,7 +9549,8 @@
         "id": "5f5adce5-855f-406a-a60f-1f0e99a35f9b",
         "name": "the godfather",
         "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -9343,6 +9591,7 @@
       "collection_name": "the godfather",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -9368,7 +9617,8 @@
         "id": "5f5adce5-855f-406a-a60f-1f0e99a35f9b",
         "name": "the godfather",
         "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     },
     {
@@ -9409,6 +9659,7 @@
       "collection_name": "the godfather",
       "collection_poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
       "collection_spotify_url": "",
+      "collection_category": "مسلسلات",
       "availableSizes": [
         "S",
         "M",
@@ -9434,7 +9685,8 @@
         "id": "5f5adce5-855f-406a-a60f-1f0e99a35f9b",
         "name": "the godfather",
         "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
-        "spotifyUrl": ""
+        "spotifyUrl": "",
+        "category": "مسلسلات"
       }
     }
   ],
