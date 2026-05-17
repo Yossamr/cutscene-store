@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T20:47:14.599Z",
+  "timestamp": "2026-05-17T17:26:31.669Z",
   "collections": [
     {
       "id": "626e7cdb-3dd8-4c70-9f65-2754ce8e1e69",
@@ -9720,12 +9720,12 @@
       "token": "7719448492:AAGqzuFAFrGJHcqYA7BVYTALgU6le4ua_YQ",
       "chatId": "-5290465823"
     },
-    "last_visitor_report_time": 1778963660319,
+    "last_visitor_report_time": 1779035479870,
     "categoryImages": {
       "movies": "https://drive.google.com/file/d/1r2hSrNctIg2xz_2Xz8ospivhcqvQlLsN/view?usp=drive_link",
       "tvShows": "https://series-y-peliculas.com/wp-content/uploads/2021/01/series.jpg",
       "anime": "https://static.crunchyroll.com/cr-acquisition/assets/img/start/hero/us-global/background-desktop.jpg"
     },
-    "free_poster_offer_enabled": true
+    "free_poster_offer_enabled": false
   }
 }

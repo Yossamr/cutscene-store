@@ -1609,8 +1609,7 @@ var import_clsx = require("clsx");
 var import_tailwind_merge = require("tailwind-merge");
 
 // src/config.ts
-var import_meta = {};
-var isProduction = typeof process !== "undefined" ? process.env.NODE_ENV === "production" : import_meta.env?.PROD || false;
+var isProduction = typeof process !== "undefined" ? process.env.NODE_ENV === "production" : typeof window !== "undefined" && window.location.hostname !== "localhost";
 var isBrowser = typeof window !== "undefined";
 var isGitHubPages = isBrowser && window.location.hostname.includes("github.io");
 var API_BASE_URL = isGitHubPages ? "https://ais-pre-3yn7g7wuqe5k5dfv5rpyzs-203126784499.europe-west2.run.app" : isBrowser ? window.location.origin : process.env.API_BASE_URL || "https://ais-pre-3yn7g7wuqe5k5dfv5rpyzs-203126784499.europe-west2.run.app";
@@ -1621,28 +1620,30 @@ if (isBrowser) {
 }
 
 // src/lib/utils.ts
-function getImageUrl(url) {
+function getImageUrl(url, size) {
   if (!url) return "https://via.placeholder.com/400?text=No+Image";
-  if (url.startsWith("http")) return getDirectDriveLink(url);
+  if (url.startsWith("http")) return getDirectDriveLink(url, size);
   if (url.startsWith("/")) return `${API_BASE_URL}${url}`;
   return `${API_BASE_URL}/uploads/${url}`;
 }
-function getDirectDriveLink(url) {
+function getDirectDriveLink(url, size = "w800") {
   if (!url) return "";
   if (url.includes("google.com/url") && (url.includes("q=") || url.includes("url="))) {
     try {
       const urlObj = new URL(url);
       const actualUrl = urlObj.searchParams.get("q") || urlObj.searchParams.get("url");
       if (actualUrl) {
-        return getDirectDriveLink(decodeURIComponent(actualUrl));
+        return getDirectDriveLink(decodeURIComponent(actualUrl), size);
       }
     } catch (e) {
       console.error("Error parsing google redirect URL:", e);
     }
   }
   if (url.includes("drive.google.com/thumbnail")) {
-    if (!url.includes("sz=")) return `${url}&sz=w1000`;
-    return url;
+    if (url.includes("sz=")) {
+      return url.replace(/sz=[^&]+/, `sz=${size}`);
+    }
+    return `${url}&sz=${size}`;
   }
   let fileId = "";
   const driveFileRegex = /\/file\/d\/([^\/?]+)/;
@@ -1662,7 +1663,7 @@ function getDirectDriveLink(url) {
     if (match && match[1]) fileId = match[1];
   }
   if (fileId) {
-    return `https://drive.google.com/thumbnail?id=${fileId}&sz=w1000`;
+    return `https://drive.google.com/thumbnail?id=${fileId}&sz=${size}`;
   }
   return url;
 }
