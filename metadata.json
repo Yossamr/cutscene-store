@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Cutscene Store",
+  "description": "A premium e-commerce platform for movie-themed apparel and collectibles, featuring real-time database synchronization via Cloudflare Workers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
