@@ -158,6 +158,17 @@ async function initDb() {
         user_email TEXT NOT NULL,
         created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
         FOREIGN KEY (product_id) REFERENCES products (id)
+      )`,
+      `CREATE TABLE IF NOT EXISTS social_posts (
+        id TEXT PRIMARY KEY,
+        title TEXT NOT NULL,
+        platform TEXT NOT NULL,
+        plan_date TEXT,
+        caption TEXT,
+        prompt TEXT,
+        image_url TEXT,
+        status TEXT DEFAULT 'draft',
+        created_at DATETIME DEFAULT CURRENT_TIMESTAMP
       )`
     ];
     for (const sql of tables) {
@@ -605,9 +616,9 @@ var init_visitorService = __esm({
 var import_express10 = __toESM(require("express"), 1);
 var import_vite = require("vite");
 var import_cors = __toESM(require("cors"), 1);
-var import_path2 = __toESM(require("path"), 1);
+var import_path3 = __toESM(require("path"), 1);
 var import_multer = __toESM(require("multer"), 1);
-var import_fs2 = __toESM(require("fs"), 1);
+var import_fs3 = __toESM(require("fs"), 1);
 
 // src/server/routes/auth.ts
 var import_express = require("express");
@@ -1917,6 +1928,27 @@ var import_express4 = require("express");
 // src/server/controllers/aiController.ts
 var import_groq_sdk = __toESM(require("groq-sdk"), 1);
 init_db();
+var import_fs2 = __toESM(require("fs"), 1);
+var import_path2 = __toESM(require("path"), 1);
+var import_genai = require("@google/genai");
+var aiClient = null;
+function getGemini() {
+  if (!aiClient) {
+    const apiKey = process.env.GEMINI_API_KEY;
+    if (!apiKey) {
+      throw new Error("GEMINI_API_KEY is not defined under Settings > Secrets.");
+    }
+    aiClient = new import_genai.GoogleGenAI({
+      apiKey,
+      httpOptions: {
+        headers: {
+          "User-Agent": "aistudio-build"
+        }
+      }
+    });
+  }
+  return aiClient;
+}
 var groqClient = null;
 function getGroq() {
   if (!groqClient) {
@@ -2101,12 +2133,168 @@ Guidelines:
     res.status(500).json({ message: "Failed to generate description" });
   }
 };
+var getSocialPosts = async (req, res) => {
+  try {
+    const result = await db.execute("SELECT * FROM social_posts ORDER BY created_at DESC");
+    res.json(result.rows);
+  } catch (error) {
+    console.error("Get social posts error:", error);
+    res.status(500).json({ message: "Failed to fetch social posts", error: error.message });
+  }
+};
+var createSocialPost = async (req, res) => {
+  try {
+    const { title, platform, plan_date, caption, prompt, image_url, status } = req.body;
+    if (!title || !platform) {
+      return res.status(400).json({ message: "Title and platform are required" });
+    }
+    const id = `sp-${Date.now()}`;
+    await db.execute({
+      sql: `INSERT INTO social_posts (id, title, platform, plan_date, caption, prompt, image_url, status) 
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+      args: [id, title, platform, plan_date || "", caption || "", prompt || "", image_url || "", status || "draft"]
+    });
+    res.json({ success: true, id });
+  } catch (error) {
+    console.error("Create social post error:", error);
+    res.status(500).json({ message: "Failed to save social post", error: error.message });
+  }
+};
+var updateSocialPost = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const { title, platform, plan_date, caption, prompt, image_url, status } = req.body;
+    await db.execute({
+      sql: `UPDATE social_posts 
+            SET title = ?, platform = ?, plan_date = ?, caption = ?, prompt = ?, image_url = ?, status = ?
+            WHERE id = ?`,
+      args: [title, platform, plan_date, caption, prompt, image_url, status, id]
+    });
+    res.json({ success: true });
+  } catch (error) {
+    console.error("Update social post error:", error);
+    res.status(500).json({ message: "Failed to update social post", error: error.message });
+  }
+};
+var deleteSocialPost = async (req, res) => {
+  try {
+    const { id } = req.params;
+    await db.execute({
+      sql: "DELETE FROM social_posts WHERE id = ?",
+      args: [id]
+    });
+    res.json({ success: true });
+  } catch (error) {
+    console.error("Delete social post error:", error);
+    res.status(500).json({ message: "Failed to delete social post", error: error.message });
+  }
+};
+var generateSocialPlan = async (req, res) => {
+  try {
+    const { durationDays, theme, productsInfo } = req.body;
+    const ai = getGemini();
+    const prompt = `You are the ultimate AI Social Media Brand Manager, Copywriter, and Visual Director for "Cutscene Brand" (premium cinematic apparel store).
+Generate a social media campaign strategy and day-by-day plan/calendar for a period of ${durationDays || 5} days.
+Campaign Theme: ${theme || "Eid Collection Launch"}
+
+Store products info/context for this campaign:
+${productsInfo || "Custom movie hoodies and tees."}
+
+Write highly captivating Instagram & Facebook posts in standard Egyptian Arabic dialect blended with cool cinematic English. It must be very interactive and fun. Write extreme visual detail in imageGenerationPrompt so we can use it with AI image generators.
+
+You MUST respond ONLY with a clean, valid JSON object containing exactly the following keys, with NO backticks or extra text outside:
+{
+  "campaignConcept": "A short dramatic explanation of the campaign's artistic design approach and hook.",
+  "recommendedHashtags": ["#CutsceneBrand", "#WearCinema"],
+  "days": [
+    {
+      "dayNumber": 1,
+      "topic": "Concept reveal / Teaser",
+      "platform": "Instagram",
+      "caption": "Post caption here in Egyptian Arabic + English",
+      "imageGenerationPrompt": "Visual details for a cinematic graphic or photoshoot lookbook with prompt details for drawing it"
+    }
+  ]
+}`;
+    const response = await ai.models.generateContent({
+      model: "gemini-3.5-flash",
+      contents: prompt,
+      config: {
+        responseMimeType: "application/json"
+      }
+    });
+    const responseText = response.text || "{}";
+    const cleanText = responseText.replace(/```json/gi, "").replace(/```/gi, "").trim();
+    const parsed = JSON.parse(cleanText);
+    res.json(parsed);
+  } catch (error) {
+    console.error("Generate social plan error:", error);
+    res.status(500).json({
+      message: "Could not generate marketing plan. Ensure GEMINI_API_KEY is active and valid in Settings > Secrets.",
+      error: error.message
+    });
+  }
+};
+var generateSocialImage = async (req, res) => {
+  try {
+    const { prompt } = req.body;
+    if (!prompt) {
+      return res.status(400).json({ message: "Prompt is required" });
+    }
+    const ai = getGemini();
+    console.log("Generating social media image with prompt:", prompt);
+    const response = await ai.models.generateContent({
+      model: "gemini-2.5-flash-image",
+      contents: {
+        parts: [{ text: `${prompt}. High-end commercial lookbook photography, studio cinematic lighting, cinematic framing, photorealistic, premium feel` }]
+      },
+      config: {
+        imageConfig: {
+          aspectRatio: "1:1"
+        }
+      }
+    });
+    let base64Image = "";
+    if (response.candidates?.[0]?.content?.parts) {
+      for (const part of response.candidates[0].content.parts) {
+        if (part.inlineData) {
+          base64Image = part.inlineData.data;
+          break;
+        }
+      }
+    }
+    if (!base64Image) {
+      throw new Error("No image data returned from image generation model.");
+    }
+    const filename = `social-${Date.now()}.png`;
+    const uploadDir = import_path2.default.join(process.cwd(), "uploads");
+    if (!import_fs2.default.existsSync(uploadDir)) {
+      import_fs2.default.mkdirSync(uploadDir, { recursive: true });
+    }
+    const filepath = import_path2.default.join(uploadDir, filename);
+    import_fs2.default.writeFileSync(filepath, Buffer.from(base64Image, "base64"));
+    const imageUrl = `/uploads/${filename}`;
+    res.json({ imageUrl });
+  } catch (error) {
+    console.error("Generate social image error:", error);
+    res.status(500).json({
+      message: "Could not generate visual mockup. Ensure GEMINI_API_KEY is active and valid in Settings > Secrets.",
+      error: error.message
+    });
+  }
+};
 
 // src/server/routes/aiRoutes.ts
 var router4 = (0, import_express4.Router)();
 router4.post("/vibe-search", vibeSearch);
 router4.post("/chat", chat);
 router4.post("/generate-description", verifyTicket, isAdmin, generateDescription);
+router4.get("/social-posts", verifyTicket, isAdmin, getSocialPosts);
+router4.post("/social-posts", verifyTicket, isAdmin, createSocialPost);
+router4.put("/social-posts/:id", verifyTicket, isAdmin, updateSocialPost);
+router4.delete("/social-posts/:id", verifyTicket, isAdmin, deleteSocialPost);
+router4.post("/generate-social-plan", verifyTicket, isAdmin, generateSocialPlan);
+router4.post("/generate-social-image", verifyTicket, isAdmin, generateSocialImage);
 var aiRoutes_default = router4;
 
 // src/server/routes/couponRoutes.ts
@@ -2562,8 +2750,8 @@ var checkDbConnection = (req, res, next) => {
 init_db();
 init_visitorService();
 var __dirname = process.cwd();
-if (!import_fs2.default.existsSync(import_path2.default.join(__dirname, "uploads"))) {
-  import_fs2.default.mkdirSync(import_path2.default.join(__dirname, "uploads"), { recursive: true });
+if (!import_fs3.default.existsSync(import_path3.default.join(__dirname, "uploads"))) {
+  import_fs3.default.mkdirSync(import_path3.default.join(__dirname, "uploads"), { recursive: true });
 }
 async function startServer() {
   const app = (0, import_express10.default)();
@@ -2590,7 +2778,7 @@ async function startServer() {
     next();
   });
   app.use(import_express10.default.json());
-  app.use("/uploads", import_express10.default.static(import_path2.default.join(__dirname, "uploads")));
+  app.use("/uploads", import_express10.default.static(import_path3.default.join(__dirname, "uploads")));
   app.get("/test-api", (req, res) => {
     res.json({ message: "API is reachable" });
   });
@@ -2608,7 +2796,7 @@ async function startServer() {
   apiRouter.use("/collections", collectionRoutes_default);
   const storage = import_multer.default.diskStorage({
     destination: (req, file, cb) => {
-      cb(null, import_path2.default.join(__dirname, "uploads/"));
+      cb(null, import_path3.default.join(__dirname, "uploads/"));
     },
     filename: (req, file, cb) => {
       cb(null, `${Date.now()}-${file.originalname}`);
@@ -2658,10 +2846,10 @@ async function startServer() {
       console.error("\u274C Vite startup error:", err);
     }
   } else {
-    const distPath = import_path2.default.join(__dirname, "dist");
+    const distPath = import_path3.default.join(__dirname, "dist");
     app.use(import_express10.default.static(distPath));
     app.get("*", (req, res) => {
-      res.sendFile(import_path2.default.join(distPath, "index.html"));
+      res.sendFile(import_path3.default.join(distPath, "index.html"));
     });
   }
   app.use((err, req, res, next) => {
